@@ -1,5 +1,5 @@
 # Miquido_project
-Project was developed at the demand of <a href="https://www.miquido.com">Miquido</a> for a recruitment reasons.
+Project was developed at the demand of <a href="https://www.miquido.com">Miquido</a> for a recruitment purposes.
 
 ## Table of contents
 1. [ Introduction. ](#intro)
