@@ -21,7 +21,7 @@ Target of this project was to create a REST API in layered architecture that con
 * Java
 * Spring
 * SwaggerUI
-* Project lombok
+* Project Lombok
 * PostgresSQL
 
 <a name=endpoints></a>
