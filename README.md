@@ -10,10 +10,10 @@ Project was developed at the demand of <a href="https://www.miquido.com">Miquido
 <a name="intro"></a>
 ## 1. Introduction
 Target of this project was to create a REST API in layered architecture that contains following functionalities:
-* create an endpoint to import a character from <a href="https://swapi.dev">Swapi</a> by id into the database
-* create an endpoint to retrieve single character by its id
-* create an endpoint to search characters by their names, it should allow to search by part of the name and also be case insensitive
-* create a validator that filters characters that are shorter than value specified in application.properties
+* endpoint importing a character from <a href="https://swapi.dev">Swapi</a> by id into the database
+* endpoint retrieving single character by its id
+* endpoint searching characters by their names, it should allow to search by part of the name and also be case insensitive
+* validator that filters characters that are shorter than value specified in application.properties
 <a name="desc"></a>
 
 <a name="technologies"></a>
