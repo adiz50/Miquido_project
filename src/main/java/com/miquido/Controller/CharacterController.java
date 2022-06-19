@@ -34,7 +34,7 @@ public class CharacterController {
     }
 
     @ApiOperation(value = "Search character by name", notes = "Returns characters whose names contain the given" +
-            " sequence of symbols")
+            " sequence of symbols case insensitive")
     @GetMapping(path = "/search")
     public ResponseEntity<ArrayList<CharacterModel>> searchCharacter(@RequestParam String name) {
         return characterService.searchCharacter(name);

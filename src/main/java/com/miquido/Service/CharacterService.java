@@ -58,6 +58,7 @@ public class CharacterService {
                         .stream().findFirst().get().getMessage(), HttpStatus.BAD_REQUEST);
             }
         }
+
         return new ResponseEntity<>(characterModel, HttpStatus.CREATED);
     }
 
